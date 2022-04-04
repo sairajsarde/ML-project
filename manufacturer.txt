@@ -1,0 +1,27 @@
+6 Manufacturer_BMW 4213 non-null uint8
+7 Manufacturer_Chevrolet 4213 non-null uint8
+8 Manufacturer_Datsun 4213 non-null uint8
+9 Manufacturer_Fiat 4213 non-null uint8
+10 Manufacturer_Force 4213 non-null uint8
+11 Manufacturer_Ford 4213 non-null uint8
+12 Manufacturer_Honda 4213 non-null uint8
+13 Manufacturer_Hyundai 4213 non-null uint8
+14 Manufacturer_ISUZU 4213 non-null uint8
+15 Manufacturer_Isuzu 4213 non-null uint8
+16 Manufacturer_Jaguar 4213 non-null uint8
+17 Manufacturer_Jeep 4213 non-null uint8
+18 Manufacturer_Lamborghini 4213 non-null uint8
+19 Manufacturer_Land 4213 non-null uint8
+20 Manufacturer_Mahindra 4213 non-null uint8
+21 Manufacturer_Maruti 4213 non-null uint8
+22 Manufacturer_Mercedes-Benz 4213 non-null uint8
+23 Manufacturer_Mini 4213 non-null uint8
+24 Manufacturer_Mitsubishi 4213 non-null uint8
+25 Manufacturer_Nissan 4213 non-null uint8
+26 Manufacturer_Porsche 4213 non-null uint8
+27 Manufacturer_Renault 4213 non-null uint8
+28 Manufacturer_Skoda 4213 non-null uint8
+29 Manufacturer_Tata 4213 non-null uint8
+30 Manufacturer_Toyota 4213 non-null uint8
+31 Manufacturer_Volkswagen 4213 non-null uint8
+32 Manufacturer_Volvo
